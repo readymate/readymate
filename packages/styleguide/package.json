@@ -1,13 +1,13 @@
 {
-  "name": "@readymate/styleguide",
-  "version": "0.0.3",
-  "main": "/dist/index.ts",
-  "author": "eeegor",
-  "license": "MIT",
-  "private": true,
-  "peerDependencies": {
-    "@types/styled-components": "^4.1.12",
-    "react": "^16.8.4",
-    "styled-components": "^4.1.3"
-  }
+    "name": "@readymate/styleguide",
+    "version": "0.0.3",
+    "main": "/dist/index.ts",
+    "author": "eeegor",
+    "license": "MIT",
+    "private": false,
+    "peerDependencies": {
+        "@types/styled-components": "^4.1.12",
+        "react": "^16.8.4",
+        "styled-components": "^4.1.3"
+    }
 }
