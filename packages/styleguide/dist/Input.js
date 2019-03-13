@@ -17,7 +17,7 @@ function _extends() { _extends = Object.assign || function (target) { for (var i
 
 const Wrapper = _styledComponents.default.div`
     display: flex;
-    margin: 10px;
+    margin: 16px;
 `;
 const Label = (0, _styledComponents.default)('label')`
     margin-right: 10px;
